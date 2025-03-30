@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Bem-vindo ao meu perfil!
 
-<!--
-**viniciusBalbi/viniciusBalbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Como Analista de Dados, meu foco é transformar dados em insights valiosos. Minha jornada na tecnologia começou com uma graduação em Ciência da Computação, onde desenvolvi uma base sólida em resolução de problemas e programação.
 
-Here are some ideas to get you started:
+## 🔹 Sobre mim:
+- 🔍 Sempre disposto a resolver problemas complexos com dados.
+- 📚 Aprendizado contínuo, atualmente expandindo meus conhecimentos em Ciência de dados.
+- 🚀 Entusiasta de tecnologia, explorando como os dados moldam o futuro.
+- 💪 Rato de Academia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Linguagens e Ferramentas:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+## 📫 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-balbino-datascientist/)
